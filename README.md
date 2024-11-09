@@ -1,7 +1,7 @@
 
 # Rx2Gantt
 
-<img src="./examples/example_gantt.png" alt="Example Gantt Chart" width="600">
+<img src="./examples/example_gantt.png" alt="Example Gantt Chart" width="800">
 
 Rx2Gantt is a Python-based project designed to streamline the process of extracting, processing, and visualizing medication-related data from PDF files. It processes medical prescription records from Taipei Veterans General Hospital to generate structured summaries and visual Gantt charts for clear, timeline-based insights into medication usage.
 
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ### CSV Summary
 
-<img src="./examples/example_summary.png" alt="Example CSV Summary" width="600">
+<img src="./examples/example_summary.png" alt="Example CSV Summary" width="800">
 
 A sample CSV output includes enriched data with classifications:
 ```
@@ -104,7 +104,7 @@ Aspirin, Cyclooxygenase Inhibitor, Platelet Aggregation Inhibition, Analgesic Ef
 
 ### Gantt Chart
 
-<img src="./examples/example_gantt.png" alt="Example Gantt Chart" width="600">
+<img src="./examples/example_gantt.png" alt="Example Gantt Chart" width="800">
 
 The Gantt chart visually displays medication timelines, highlighting:
 - **Start and stop dates** of each medication
